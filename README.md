@@ -1,0 +1,2 @@
+# specs
+cocopods specs 
